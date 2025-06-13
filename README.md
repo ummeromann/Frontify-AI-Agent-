@@ -28,6 +28,3 @@ built with **Chainlit**, and wrapped in an Agentic AI framework, it streams real
 | 🔁 Async/Await    | Non-blocking streaming and performance   |
 
 ---
-
-## 📂 Project Structure
-
